@@ -27,7 +27,7 @@ Resume:
 Provide:
 - ATS score (0-100) based on relevance, clarity, and completeness.
 - Strong points as points.
-- Weak points as points.
+- Weak points as points
 
 {format_instructions}
 `);

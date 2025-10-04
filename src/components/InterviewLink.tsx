@@ -40,7 +40,7 @@ const InterviewLink = () => {
   useEffect(() => {
     fetchLatestInterview();
   }, []);
-  // console.log("interviewData", interviewData);
+  // console.log("interviewData", interviewData)
 
   return (
     <div className="max-w-[800px] mx-auto mt-5 bg-white p-5 flex flex-col items-center justify-center rounded-xl">

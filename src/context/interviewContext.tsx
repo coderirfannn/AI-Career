@@ -23,7 +23,7 @@
     );
     };
 
-    // 4. Custom hook for consuming context
+ 
     export const useInterview = () => {
     const context = useContext(InterviewContext);
     if (!context) {

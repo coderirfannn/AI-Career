@@ -6,7 +6,7 @@ import { supabase } from "@/services/supabaseClient";
 import { toast } from "sonner";
 // import dotenv from "dotenv";
 import axios from "axios";
-// dotenv.config();
+
 
 const ai = new GoogleGenAI({
   apiKey: process.env.NEXT_PUBLIC_GOOGLE_GENAI_KEY!,

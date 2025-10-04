@@ -91,7 +91,7 @@ export function SheetDemo() {
           </SheetTitle>
           <SheetDescription className="text-sm font-inter tracking-wide mt-2 text-gray-400 px-1">
             I&apos;m an AI agent that can help you with getting started with
-            VOCALX, sending mails to candidates, solving quiries.
+            Ai caeere, sending mails to candidates, solving quiries.
           </SheetDescription>
         </SheetHeader>
         {/*---------------- AI MESSAGES DIPLAY--------------------- */}
@@ -105,7 +105,7 @@ export function SheetDemo() {
                 <p>Get To know more about VOCALX</p>
               </div>
               <div className="p-2 rounded-sm bg-blue-200 border-2 border-blue-500 text-black font-sora text-xs tracking-tight text-center hover:bg-blue-200 hover:scale-105 transition-all duration-200">
-                <p>Creating Tickets to solve complex quiries</p>
+                <p>Creating Tickets to Solve complex quiries</p>
               </div>
               <div className="p-2 rounded-sm bg-blue-200 border-2 border-blue-500 text-black font-sora text-xs tracking-tight text-center hover:bg-blue-200 hover:scale-105 transition-all duration-200">
                 <p>Send Mail To candidates</p>

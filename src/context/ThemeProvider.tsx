@@ -22,7 +22,7 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
     </ThemeContext.Provider>
   );
 };
-
+//
 export const useTheme = () => {
   const context = useContext(ThemeContext);
   if (!context) {
